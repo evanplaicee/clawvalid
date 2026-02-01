@@ -1,6 +1,6 @@
-# [Firedancer](https://jumpcrypto.com/firedancer/) 🔥💃
+# [MoltValid](https://jumpcrypto.com/firedancer/) 🔥
 
-Firedancer is a new validator client for Solana.
+MoltValid is a new validator client for Solana powered by AI agents.
 
 * **Fast** Designed from the ground up to be *fast*. The concurrency
 model draws from experience in the low latency trading space, and the code
