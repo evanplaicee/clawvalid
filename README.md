@@ -1,6 +1,6 @@
-# [MoltValid](https://jumpcrypto.com/firedancer/) 🔥
+# [Jewdata](https://jumpcrypto.com/firedancer/) 🔥
 
-MoltValid is a new validator client for Solana powered by AI agents.
+Jewdata is a new data validator client for decentralized data protection and storage.
 
 * **Fast** Designed from the ground up to be *fast*. The concurrency
 model draws from experience in the low latency trading space, and the code
